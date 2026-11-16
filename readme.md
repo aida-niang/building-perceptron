@@ -36,8 +36,6 @@ et pire valeur (`_worst`).
 manquante, aucun doublon. Cible encodée en malin = 1, bénin = 0.
 ## Analyse exploratoire
 
-Building Perceptron · feuille de route 32 / 37
-
 - Les échelles sont très différentes (`area_mean` autour de 655, `smoothness_mean` autour de 0,1) :
 standardisation obligatoire.
 - La taille et la concavité des noyaux séparent bien les deux classes.
